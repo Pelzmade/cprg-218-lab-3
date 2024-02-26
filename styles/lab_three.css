@@ -1,9 +1,7 @@
 
 .header {
-  background: grey;
   color: white;
-  padding: 10px;
-  text-align: left;
+  font-weight: bold;
   }
 
   .subheader { 
@@ -36,8 +34,9 @@
 .card:nth-last-of-type(9)
 {
   background-color: orange;
-
-}
+    
+  }
+ 
 
 .card:nth-last-of-type(8)
 {
@@ -46,23 +45,23 @@
 
 .card:nth-last-of-type(7)
 {
-  background-color: aqua;
+  background-color: #64B6AC;
 }
 
 .card:nth-last-of-type(6)
 {
-  background-color: yellow; 
+  background-color: #FDCA40; 
 
 }
 
 .card:nth-last-of-type(5)
 {
-  background-color: #fcf57c;
+  background-color: #D0CD94;
 }
 
 .card:nth-last-of-type(4)
 {
-  background-color: lightpink;
+  background-color: #F97068;
  
 }
 
